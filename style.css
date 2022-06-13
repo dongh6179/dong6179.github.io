@@ -1,12 +1,23 @@
 p{
-    width:100px;
+    text-align: center;
 }
 
 h1{
     background-color: lightblue;
+    text-align: center;
 }
 
 #paragraph{
     background-color: aliceblue;
-    margin: 10px 0 10px 0;
+    text-align: center;
+}
+
+body{
+    margin:auto 0;
+    padding:0;
+}
+
+audio{
+    margin: 0 auto;
+    display: block;
 }
